@@ -5,8 +5,8 @@ permalink: /info
 ---
 
 {%- assign utils = false -%}
-{%- assign lootboxes = false -%}
-{%- assign puppeteer = false -%}
+{%- assign lootboxes = true -%}
+{%- assign puppeteer = true -%}
 {%- for mod in site.data.modlist -%}
     {%- case mod.name -%}
         {%- when 'ToolkitUtils' %}
