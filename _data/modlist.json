@@ -12,8 +12,14 @@
     "version": null
   },
   {
-    "author": "klvlt",
-    "name": "Almost Impassable Tables",
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
@@ -96,12 +102,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Door Clearance",
     "steamId": null,
@@ -180,14 +180,62 @@
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "Sand Castles",
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Feral Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Hair pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Spacer Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Maid Omniservant",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Sophian",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Xenotype Pack - Askbarn",
     "steamId": null,
     "version": null
   },
@@ -222,6 +270,12 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
@@ -236,12 +290,6 @@
   {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
     "steamId": null,
     "version": null
   },
@@ -266,6 +314,18 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and legodude17",
     "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
@@ -348,8 +408,8 @@
     "version": null
   },
   {
-    "author": "Chicken Plucker and Taranchuk",
-    "name": "[RH2] CPERS: Arrest Here!",
+    "author": "Wilhelm95",
+    "name": "[Ku] A Mod About Meat",
     "steamId": null,
     "version": null
   }
