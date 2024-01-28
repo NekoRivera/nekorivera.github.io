@@ -12,20 +12,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "author": "Sarg Bjornson",
+    "name": "Alpha Props - Parks and Gardens",
     "steamId": null,
     "version": null
   },
@@ -78,6 +66,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
@@ -90,14 +84,44 @@
     "version": null
   },
   {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mammalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MrKociak",
     "name": "Biotech Mech Stuff Elongated - Mechanoid Upgrades V2",
     "steamId": null,
     "version": null
   },
   {
+    "author": "SirVan",
+    "name": "Dark Ages : Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Trojan - Troopersmith1 - Linq - deathrat",
     "name": "Death Rattle [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
     "steamId": null,
     "version": null
   },
@@ -126,6 +150,18 @@
     "version": null
   },
   {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "theactualspinny",
     "name": "Gene Trader",
     "steamId": null,
@@ -140,6 +176,12 @@
   {
     "author": "Taveron",
     "name": "Increased Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Labels on Floor",
     "steamId": null,
     "version": null
   },
@@ -162,20 +204,86 @@
     "version": null
   },
   {
+    "author": "Sierra",
+    "name": "Milkshakes - Blueberry & Strawberry Edition ",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sinnamon and MrKev",
     "name": "More Ritual Rewards (1.4)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Perspective: Doors",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Perspective: Trees",
+    "author": "Neronix17",
+    "name": "Outland - Furniture & Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Motz Coalition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Redburn Pact",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Vathun Nobles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Defences",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Crystallic Lighting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
     "steamId": null,
     "version": null
   },
@@ -240,6 +348,12 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -254,6 +368,18 @@
   {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -330,14 +456,38 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Plants Expanded - Mushrooms",
     "steamId": null,
     "version": null
   },
   {
-    "author": "zzz",
-    "name": "Wall Vitals Monitor",
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
   },
@@ -410,6 +560,18 @@
   {
     "author": "Wilhelm95",
     "name": "[Ku] A Mod About Meat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DevDesigner",
+    "name": "ↁ House Sanguin",
     "steamId": null,
     "version": null
   }
