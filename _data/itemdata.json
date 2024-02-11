@@ -740,7 +740,7 @@
     "KarmaType": null
   },
   "DoubleBed": {
-    "CustomName": null,
+    "CustomName": "doublebed1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -880,7 +880,7 @@
     "KarmaType": null
   },
   "Stool": {
-    "CustomName": null,
+    "CustomName": "stool1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -900,7 +900,7 @@
     "KarmaType": null
   },
   "DiningChair": {
-    "CustomName": null,
+    "CustomName": "diningchair1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -940,7 +940,7 @@
     "KarmaType": null
   },
   "EndTable": {
-    "CustomName": null,
+    "CustomName": "endtable1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -1100,7 +1100,7 @@
     "KarmaType": null
   },
   "Shelf": {
-    "CustomName": null,
+    "CustomName": "shelf1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -1140,7 +1140,7 @@
     "KarmaType": null
   },
   "Dresser": {
-    "CustomName": null,
+    "CustomName": "dresser1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -1820,7 +1820,7 @@
     "KarmaType": null
   },
   "FermentingBarrel": {
-    "CustomName": null,
+    "CustomName": "fermentingbarrel1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -4160,7 +4160,7 @@
     "KarmaType": null
   },
   "Apparel_HatHood": {
-    "CustomName": null,
+    "CustomName": "hood1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -4520,7 +4520,7 @@
     "KarmaType": null
   },
   "Apparel_Cape": {
-    "CustomName": null,
+    "CustomName": "cape1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -4700,7 +4700,7 @@
     "KarmaType": null
   },
   "MeleeWeapon_LongSword": {
-    "CustomName": null,
+    "CustomName": "longsword1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -7700,7 +7700,7 @@
     "KarmaType": null
   },
   "MeleeWeapon_Warhammer": {
-    "CustomName": null,
+    "CustomName": "warhammer1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -8040,7 +8040,7 @@
     "KarmaType": null
   },
   "Lectern": {
-    "CustomName": null,
+    "CustomName": "lectern1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -10660,7 +10660,7 @@
     "KarmaType": null
   },
   "VCE_Grill": {
-    "CustomName": null,
+    "CustomName": "grill1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -10940,7 +10940,7 @@
     "KarmaType": null
   },
   "VCE_Cheese": {
-    "CustomName": null,
+    "CustomName": "cheese1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -10980,7 +10980,7 @@
     "KarmaType": null
   },
   "VCE_RawSugar": {
-    "CustomName": null,
+    "CustomName": "sugar1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -11000,7 +11000,7 @@
     "KarmaType": null
   },
   "VCE_RawSpices": {
-    "CustomName": null,
+    "CustomName": "spices1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -11020,7 +11020,7 @@
     "KarmaType": null
   },
   "VCE_Salt": {
-    "CustomName": null,
+    "CustomName": "salt1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -12800,7 +12800,7 @@
     "KarmaType": null
   },
   "VME_AncientLockerBank": {
-    "CustomName": null,
+    "CustomName": "ancientlockerbank1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -13800,7 +13800,7 @@
     "KarmaType": null
   },
   "AM_Urn": {
-    "CustomName": null,
+    "CustomName": "urn1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -13820,7 +13820,7 @@
     "KarmaType": null
   },
   "AM_MummyMale": {
-    "CustomName": null,
+    "CustomName": "mummified1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16060,7 +16060,7 @@
     "KarmaType": null
   },
   "VFEP_Box_TearGasGrenadeLauncher": {
-    "CustomName": null,
+    "CustomName": "warcasketteargasgrenadelauncher1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16120,7 +16120,7 @@
     "KarmaType": null
   },
   "VFEP_Box_Autorifle": {
-    "CustomName": null,
+    "CustomName": "warcasketautorifle1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16140,7 +16140,7 @@
     "KarmaType": null
   },
   "VFEP_Box_UraniumSlugRifle": {
-    "CustomName": null,
+    "CustomName": "warcasketuraniumslugrifle1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16160,7 +16160,7 @@
     "KarmaType": null
   },
   "VFEP_Box_Slugthrower": {
-    "CustomName": null,
+    "CustomName": "warcasketslugthrower1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16180,7 +16180,7 @@
     "KarmaType": null
   },
   "VFEP_Box_Minigun": {
-    "CustomName": null,
+    "CustomName": "warcasketminigun1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16200,7 +16200,7 @@
     "KarmaType": null
   },
   "VFEP_Box_GrenadeLauncher": {
-    "CustomName": null,
+    "CustomName": "warcasketgrenadelauncher1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16220,7 +16220,7 @@
     "KarmaType": null
   },
   "VFEP_Box_HeavyFlamer": {
-    "CustomName": null,
+    "CustomName": "warcasketheavyflamer1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16240,7 +16240,7 @@
     "KarmaType": null
   },
   "VFEP_Box_CombatKnife": {
-    "CustomName": null,
+    "CustomName": "warcasketcombatknife1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16260,7 +16260,7 @@
     "KarmaType": null
   },
   "VFEP_Box_Broadsword": {
-    "CustomName": null,
+    "CustomName": "warcasketbroadsword1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16280,7 +16280,7 @@
     "KarmaType": null
   },
   "VFEP_Box_ChargeLance": {
-    "CustomName": null,
+    "CustomName": "warcasketchargelance1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16300,7 +16300,7 @@
     "KarmaType": null
   },
   "VFEP_Box_HandheldCannon": {
-    "CustomName": null,
+    "CustomName": "warcaskethandheldcannon1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16320,7 +16320,7 @@
     "KarmaType": null
   },
   "VFEP_Box_ChargeBlaster": {
-    "CustomName": null,
+    "CustomName": "warcasketchargeblaster1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -16340,7 +16340,7 @@
     "KarmaType": null
   },
   "VFEP_Box_GravityHammer": {
-    "CustomName": null,
+    "CustomName": "warcasketgravityhammer1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -22920,7 +22920,7 @@
     "KarmaType": null
   },
   "Bed_StoneSlab": {
-    "CustomName": null,
+    "CustomName": "slabbed1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23300,7 +23300,7 @@
     "KarmaType": null
   },
   "Shelf_WeaponRack": {
-    "CustomName": null,
+    "CustomName": "weaponrack1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23400,7 +23400,7 @@
     "KarmaType": null
   },
   "Table_Wardrobe": {
-    "CustomName": null,
+    "CustomName": "wardrobe2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23460,7 +23460,7 @@
     "KarmaType": null
   },
   "Table_RoyalEndTable": {
-    "CustomName": null,
+    "CustomName": "royalendtable1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23480,7 +23480,7 @@
     "KarmaType": null
   },
   "Table_RoyalDresser": {
-    "CustomName": null,
+    "CustomName": "royaldresser1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23520,7 +23520,7 @@
     "KarmaType": null
   },
   "Seat_RoyalArmchair": {
-    "CustomName": null,
+    "CustomName": "royalarmchair1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -24140,7 +24140,7 @@
     "KarmaType": null
   },
   "VCHE_Deepchem": {
-    "CustomName": null,
+    "CustomName": "deepchem1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30260,7 +30260,7 @@
     "KarmaType": null
   },
   "VIE_RelicInertBone": {
-    "CustomName": null,
+    "CustomName": "bone1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30280,7 +30280,7 @@
     "KarmaType": null
   },
   "VIE_RelicInertBook": {
-    "CustomName": null,
+    "CustomName": "book1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30400,7 +30400,7 @@
     "KarmaType": null
   },
   "VIE_RelicInertBucket": {
-    "CustomName": null,
+    "CustomName": "bucket1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30720,7 +30720,7 @@
     "KarmaType": null
   },
   "VIE_RelicInertPyramid": {
-    "CustomName": null,
+    "CustomName": "pyramid1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30800,7 +30800,7 @@
     "KarmaType": null
   },
   "VIE_RelicInertSkull": {
-    "CustomName": null,
+    "CustomName": "skull1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -32000,7 +32000,7 @@
     "KarmaType": null
   },
   "Meat_Pig": {
-    "CustomName": null,
+    "CustomName": "pork1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -32300,7 +32300,7 @@
     "KarmaType": null
   },
   "Meat_Wolf_Timber": {
-    "CustomName": null,
+    "CustomName": "wolfmeat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -39840,7 +39840,7 @@
     "KarmaType": null
   },
   "BMT_Basilisk": {
-    "CustomName": null,
+    "CustomName": "basilisk1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -39860,7 +39860,7 @@
     "KarmaType": null
   },
   "BMT_BasiliskEggFertilized": {
-    "CustomName": null,
+    "CustomName": "basiliskegg(fert.)1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -40520,7 +40520,7 @@
     "KarmaType": null
   },
   "BMT_CrystalCrab_Sandstone": {
-    "CustomName": null,
+    "CustomName": "crystalcrab1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -40540,7 +40540,7 @@
     "KarmaType": null
   },
   "BMT_CrystalCrab_Granite": {
-    "CustomName": null,
+    "CustomName": "crystalcrab2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -40560,7 +40560,7 @@
     "KarmaType": null
   },
   "BMT_CrystalCrab_Limestone": {
-    "CustomName": null,
+    "CustomName": "crystalcrab3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -40580,7 +40580,7 @@
     "KarmaType": null
   },
   "BMT_CrystalCrab_Slate": {
-    "CustomName": null,
+    "CustomName": "crystalcrab4",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -40600,7 +40600,7 @@
     "KarmaType": null
   },
   "BMT_CrystalCrab_Marble": {
-    "CustomName": null,
+    "CustomName": "crystalcrab5",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -43840,7 +43840,7 @@
     "KarmaType": null
   },
   "Bow_Compound": {
-    "CustomName": null,
+    "CustomName": "compoundbow1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -43900,7 +43900,7 @@
     "KarmaType": null
   },
   "Gun_RSBattleRifle": {
-    "CustomName": null,
+    "CustomName": "battlerifle1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -44020,7 +44020,7 @@
     "KarmaType": null
   },
   "Gun_MarksmanRifle": {
-    "CustomName": null,
+    "CustomName": "marksmanrifle1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -44660,7 +44660,7 @@
     "KarmaType": null
   },
   "Apparel_HuskerHood": {
-    "CustomName": null,
+    "CustomName": "feralhood1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -44700,7 +44700,7 @@
     "KarmaType": null
   },
   "Apparel_ThumperHood": {
-    "CustomName": null,
+    "CustomName": "feralhood2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -44820,7 +44820,7 @@
     "KarmaType": null
   },
   "Apparel_FeralHood": {
-    "CustomName": null,
+    "CustomName": "feralhood3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -47160,7 +47160,7 @@
     "KarmaType": null
   },
   "Turret_RSCannon": {
-    "CustomName": null,
+    "CustomName": "cannon1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -47820,7 +47820,7 @@
     "KarmaType": null
   },
   "VCE_RawOnion": {
-    "CustomName": null,
+    "CustomName": "onions1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -49120,7 +49120,7 @@
     "KarmaType": null
   },
   "DankPyon_Crossbow": {
-    "CustomName": null,
+    "CustomName": "crossbow2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -49140,7 +49140,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedHalberd1c": {
-    "CustomName": null,
+    "CustomName": "namedhalberd1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -49200,7 +49200,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedTwoHandedHammer": {
-    "CustomName": null,
+    "CustomName": "namedtwo-handedhammer1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -49260,7 +49260,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedGreatsword2c": {
-    "CustomName": null,
+    "CustomName": "namedgreatsword2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -49300,7 +49300,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedGreatsword": {
-    "CustomName": null,
+    "CustomName": "namedgreatsword1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -49560,7 +49560,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_Hatchet": {
-    "CustomName": null,
+    "CustomName": "hatchet1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -50260,7 +50260,7 @@
     "KarmaType": null
   },
   "DankPyon_ShieldKite": {
-    "CustomName": null,
+    "CustomName": "kiteshield1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -50340,7 +50340,7 @@
     "KarmaType": null
   },
   "DankPyon_Headgear_Armet": {
-    "CustomName": null,
+    "CustomName": "armet1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -51060,7 +51060,7 @@
     "KarmaType": null
   },
   "DankPyon_Headgear_Hood": {
-    "CustomName": null,
+    "CustomName": "hood2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -51100,7 +51100,7 @@
     "KarmaType": null
   },
   "DankPyon_Apparel_Quiver": {
-    "CustomName": null,
+    "CustomName": "quiver1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -52000,7 +52000,7 @@
     "KarmaType": null
   },
   "DankPyon_Footwear_BootsPlate": {
-    "CustomName": null,
+    "CustomName": "plateboots1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -52420,7 +52420,7 @@
     "KarmaType": null
   },
   "DankPyon_RawPumpkins": {
-    "CustomName": null,
+    "CustomName": "pumpkins1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -52500,7 +52500,7 @@
     "KarmaType": null
   },
   "DankPyon_RawCabbages": {
-    "CustomName": null,
+    "CustomName": "cabbages1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -52560,7 +52560,7 @@
     "KarmaType": null
   },
   "DankPyon_RawApples": {
-    "CustomName": null,
+    "CustomName": "apples1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -52580,7 +52580,7 @@
     "KarmaType": null
   },
   "DankPyon_RawTomatoes": {
-    "CustomName": null,
+    "CustomName": "tomatoes1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -53020,7 +53020,7 @@
     "KarmaType": null
   },
   "DankPyon_Flour": {
-    "CustomName": null,
+    "CustomName": "flour1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -54340,7 +54340,7 @@
     "KarmaType": null
   },
   "DankPyon_Ruby": {
-    "CustomName": null,
+    "CustomName": "ruby1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -54360,7 +54360,7 @@
     "KarmaType": null
   },
   "DankPyon_Sapphire": {
-    "CustomName": null,
+    "CustomName": "sapphire1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -54380,7 +54380,7 @@
     "KarmaType": null
   },
   "DankPyon_Emerald": {
-    "CustomName": null,
+    "CustomName": "emerald1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -54400,7 +54400,7 @@
     "KarmaType": null
   },
   "DankPyon_Onyx": {
-    "CustomName": null,
+    "CustomName": "onyx1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -54440,7 +54440,7 @@
     "KarmaType": null
   },
   "DankPyon_Citrine": {
-    "CustomName": null,
+    "CustomName": "citrine1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -54620,7 +54620,7 @@
     "KarmaType": null
   },
   "DankPyon_Honey": {
-    "CustomName": null,
+    "CustomName": "honey1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55140,7 +55140,7 @@
     "KarmaType": null
   },
   "DankPyon_SkullRuby": {
-    "CustomName": null,
+    "CustomName": "rubyskull1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55160,7 +55160,7 @@
     "KarmaType": null
   },
   "DankPyon_SkullSapphire": {
-    "CustomName": null,
+    "CustomName": "sapphireskull1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55180,7 +55180,7 @@
     "KarmaType": null
   },
   "DankPyon_SkullEmerald": {
-    "CustomName": null,
+    "CustomName": "emeraldskull1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55200,7 +55200,7 @@
     "KarmaType": null
   },
   "DankPyon_SkullGold": {
-    "CustomName": null,
+    "CustomName": "goldskull1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55240,7 +55240,7 @@
     "KarmaType": null
   },
   "DankPyon_BowlSilver": {
-    "CustomName": null,
+    "CustomName": "silverbowl1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55260,7 +55260,7 @@
     "KarmaType": null
   },
   "DankPyon_ChaliceGold": {
-    "CustomName": null,
+    "CustomName": "ancientgoldenchalice1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55280,7 +55280,7 @@
     "KarmaType": null
   },
   "DankPyon_ChaliceSilver": {
-    "CustomName": null,
+    "CustomName": "silverchalice1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -55320,7 +55320,7 @@
     "KarmaType": null
   },
   "DankPyon_Book_AncientCodex": {
-    "CustomName": null,
+    "CustomName": "ancientcodex1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -56120,7 +56120,7 @@
     "KarmaType": null
   },
   "DankPyon_UnholdBones": {
-    "CustomName": null,
+    "CustomName": "heartoftheforest1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -56760,7 +56760,7 @@
     "KarmaType": null
   },
   "DankPyon_ShelfFilled2c": {
-    "CustomName": null,
+    "CustomName": "filledshelf1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -56900,7 +56900,7 @@
     "KarmaType": null
   },
   "DankPyon_Crate1x2c": {
-    "CustomName": null,
+    "CustomName": "crate1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -57420,7 +57420,7 @@
     "KarmaType": null
   },
   "DankPyon_RusticBarrelBigClosedDown": {
-    "CustomName": null,
+    "CustomName": "largebarrel1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -57760,7 +57760,7 @@
     "KarmaType": null
   },
   "DankPyon_Ruined_AncientColumn": {
-    "CustomName": null,
+    "CustomName": "ancientcolumn1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -59400,7 +59400,7 @@
     "KarmaType": null
   },
   "DankPyon_Candles_Beeswax": {
-    "CustomName": null,
+    "CustomName": "candles2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -59420,7 +59420,7 @@
     "KarmaType": null
   },
   "DankPyon_Candles": {
-    "CustomName": null,
+    "CustomName": "candles1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -60560,7 +60560,7 @@
     "KarmaType": null
   },
   "DankPyon_MustWine": {
-    "CustomName": null,
+    "CustomName": "grapemust1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -61640,7 +61640,7 @@
     "KarmaType": null
   },
   "VFEM_Shield_Heater": {
-    "CustomName": null,
+    "CustomName": "heatershield1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -61900,7 +61900,7 @@
     "KarmaType": null
   },
   "VFEM_RawGrapes": {
-    "CustomName": null,
+    "CustomName": "grapes1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -61920,7 +61920,7 @@
     "KarmaType": null
   },
   "VFEM_SmokedMeat": {
-    "CustomName": null,
+    "CustomName": "smokedmeat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -61980,7 +61980,7 @@
     "KarmaType": null
   },
   "VFEM_Candle": {
-    "CustomName": null,
+    "CustomName": "candle1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -62020,7 +62020,7 @@
     "KarmaType": null
   },
   "VFEM_Wine": {
-    "CustomName": null,
+    "CustomName": "wine1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -62300,7 +62300,7 @@
     "KarmaType": null
   },
   "VWE_Bow_Crossbow": {
-    "CustomName": null,
+    "CustomName": "crossbow1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -62360,7 +62360,7 @@
     "KarmaType": null
   },
   "VWE_Gun_Carbine": {
-    "CustomName": null,
+    "CustomName": "carbine1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -62700,7 +62700,7 @@
     "KarmaType": null
   },
   "VWE_MeleeWeapon_Halberd": {
-    "CustomName": null,
+    "CustomName": "halberd1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -63720,7 +63720,7 @@
     "KarmaType": null
   },
   "AYTallow": {
-    "CustomName": null,
+    "CustomName": "tallow1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -65840,7 +65840,7 @@
     "KarmaType": null
   },
   "DankPyon_LargeCobraForest": {
-    "CustomName": null,
+    "CustomName": "largecobra1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -65980,7 +65980,7 @@
     "KarmaType": null
   },
   "Outland_FockattBlack": {
-    "CustomName": null,
+    "CustomName": "forestfockatt1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -66000,7 +66000,7 @@
     "KarmaType": null
   },
   "Outland_FockattBlue": {
-    "CustomName": null,
+    "CustomName": "forestfockatt2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -66080,7 +66080,7 @@
     "KarmaType": null
   },
   "Outland_Backpack": {
-    "CustomName": null,
+    "CustomName": "backpack1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -66800,7 +66800,7 @@
     "KarmaType": null
   },
   "Outland_Barrel": {
-    "CustomName": null,
+    "CustomName": "barrel1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67040,7 +67040,7 @@
     "KarmaType": null
   },
   "Outland_StoneBookshelf": {
-    "CustomName": null,
+    "CustomName": "bookshelf1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67060,7 +67060,7 @@
     "KarmaType": null
   },
   "Outland_StoneDresser": {
-    "CustomName": null,
+    "CustomName": "dresser2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67080,7 +67080,7 @@
     "KarmaType": null
   },
   "Outland_StoneEndTable": {
-    "CustomName": null,
+    "CustomName": "endtable2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67100,7 +67100,7 @@
     "KarmaType": null
   },
   "Outland_StoneEndTableWithLamp": {
-    "CustomName": null,
+    "CustomName": "endtablewithlamp1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67140,7 +67140,7 @@
     "KarmaType": null
   },
   "Outland_StoneShelf": {
-    "CustomName": null,
+    "CustomName": "shelf2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67160,7 +67160,7 @@
     "KarmaType": null
   },
   "Outland_StoneStool": {
-    "CustomName": null,
+    "CustomName": "stool2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67300,7 +67300,7 @@
     "KarmaType": null
   },
   "Outland_StoneWallSconce": {
-    "CustomName": null,
+    "CustomName": "wallsconce1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67320,7 +67320,7 @@
     "KarmaType": null
   },
   "Outland_StoneWallSconce_Darklight": {
-    "CustomName": null,
+    "CustomName": "wallsconce(darklight)1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67360,7 +67360,7 @@
     "KarmaType": null
   },
   "Outland_StoneWineRack": {
-    "CustomName": null,
+    "CustomName": "winerack1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67400,7 +67400,7 @@
     "KarmaType": null
   },
   "Outland_BedSingle": {
-    "CustomName": null,
+    "CustomName": "bed1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67420,7 +67420,7 @@
     "KarmaType": null
   },
   "Outland_Bench": {
-    "CustomName": null,
+    "CustomName": "bench1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67440,7 +67440,7 @@
     "KarmaType": null
   },
   "Outland_Bookshelf": {
-    "CustomName": null,
+    "CustomName": "bookshelf2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67500,7 +67500,7 @@
     "KarmaType": null
   },
   "Outland_Dresser": {
-    "CustomName": null,
+    "CustomName": "dresser3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67520,7 +67520,7 @@
     "KarmaType": null
   },
   "Outland_EndTable": {
-    "CustomName": null,
+    "CustomName": "endtable3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -67820,7 +67820,7 @@
     "KarmaType": null
   },
   "Outland_Wardrobe": {
-    "CustomName": null,
+    "CustomName": "wardrobe1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -69140,7 +69140,7 @@
     "KarmaType": null
   },
   "Outland_Bardiche": {
-    "CustomName": null,
+    "CustomName": "bardiche1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -69260,7 +69260,7 @@
     "KarmaType": null
   },
   "Outland_MilitaryPick": {
-    "CustomName": null,
+    "CustomName": "militarypick1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -69560,7 +69560,7 @@
     "KarmaType": null
   },
   "TM_Dire_WolfR": {
-    "CustomName": null,
+    "CustomName": "direwolf1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -73040,7 +73040,7 @@
     "KarmaType": null
   },
   "TM_ElephantTusk": {
-    "CustomName": null,
+    "CustomName": "elephanttusk1",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -76140,7 +76140,7 @@
     "KarmaType": null
   },
   "VAE_Handwear_PlateGloves": {
-    "CustomName": null,
+    "CustomName": "plategloves1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -76220,7 +76220,7 @@
     "KarmaType": null
   },
   "VAE_Apparel_Gambeson": {
-    "CustomName": null,
+    "CustomName": "gambeson1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -77080,7 +77080,7 @@
     "KarmaType": null
   },
   "VCE_RawCarrot": {
-    "CustomName": null,
+    "CustomName": "carrots1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -78760,7 +78760,7 @@
     "KarmaType": null
   },
   "DevDesigner_Blood_Apparel_Armet": {
-    "CustomName": null,
+    "CustomName": "armet(sanguin)1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -78920,7 +78920,7 @@
     "KarmaType": null
   },
   "DevDesigner_Blood_Apparel_KiteShield": {
-    "CustomName": null,
+    "CustomName": "kiteshield(sanguin)1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80080,7 +80080,7 @@
     "KarmaType": null
   },
   "Forgotten_Orc_XenoEgg": {
-    "CustomName": null,
+    "CustomName": "orcegg1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80280,7 +80280,7 @@
     "KarmaType": null
   },
   "Forgotten_Goblin_XenoEgg": {
-    "CustomName": null,
+    "CustomName": "goblinegg1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80300,7 +80300,7 @@
     "KarmaType": null
   },
   "Forgotten_Hobgoblin_XenoEgg": {
-    "CustomName": null,
+    "CustomName": "hobgoblinegg1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80700,7 +80700,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_Hampshire": {
-    "CustomName": null,
+    "CustomName": "pork2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80720,7 +80720,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_Gloucestershire": {
-    "CustomName": null,
+    "CustomName": "pork3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80740,7 +80740,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_Ravelder": {
-    "CustomName": null,
+    "CustomName": "beef1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80760,7 +80760,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_Angus": {
-    "CustomName": null,
+    "CustomName": "beef2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80880,7 +80880,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_SchratPlain": {
-    "CustomName": null,
+    "CustomName": "schratmeat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80900,7 +80900,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_LargeCobraForest": {
-    "CustomName": null,
+    "CustomName": "cobrameat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80920,7 +80920,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_LargeCobraCave": {
-    "CustomName": null,
+    "CustomName": "cobrameat2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80960,7 +80960,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_GiantConstrictorCave": {
-    "CustomName": null,
+    "CustomName": "constrictormeat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -80980,7 +80980,7 @@
     "KarmaType": null
   },
   "Meat_DankPyon_LindwurmForest": {
-    "CustomName": null,
+    "CustomName": "lindwurmmeat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81100,7 +81100,7 @@
     "KarmaType": null
   },
   "Meat_TM_LesserDemonR": {
-    "CustomName": null,
+    "CustomName": "demonflesh1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81140,7 +81140,7 @@
     "KarmaType": null
   },
   "Meat_TM_LesserEarth_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81160,7 +81160,7 @@
     "KarmaType": null
   },
   "Meat_TM_Earth_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81180,7 +81180,7 @@
     "KarmaType": null
   },
   "Meat_TM_GreaterEarth_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81200,7 +81200,7 @@
     "KarmaType": null
   },
   "Meat_TM_LesserFire_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust4",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81220,7 +81220,7 @@
     "KarmaType": null
   },
   "Meat_TM_Fire_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust5",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81240,7 +81240,7 @@
     "KarmaType": null
   },
   "Meat_TM_GreaterFire_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust6",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81260,7 +81260,7 @@
     "KarmaType": null
   },
   "Meat_TM_LesserWater_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust7",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81280,7 +81280,7 @@
     "KarmaType": null
   },
   "Meat_TM_Water_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust8",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81300,7 +81300,7 @@
     "KarmaType": null
   },
   "Meat_TM_GreaterWater_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust9",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81320,7 +81320,7 @@
     "KarmaType": null
   },
   "Meat_TM_LesserWind_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust10",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81340,7 +81340,7 @@
     "KarmaType": null
   },
   "Meat_TM_Wind_ElementalR": {
-    "CustomName": null,
+    "CustomName": "elementaldust11",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81380,7 +81380,7 @@
     "KarmaType": null
   },
   "Meat_TM_MinionR": {
-    "CustomName": null,
+    "CustomName": "mysterymeat1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81440,7 +81440,7 @@
     "KarmaType": null
   },
   "Meat_TM_SentinelR": {
-    "CustomName": null,
+    "CustomName": "stone1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -81460,7 +81460,7 @@
     "KarmaType": null
   },
   "Meat_TM_Greater_SentinelR": {
-    "CustomName": null,
+    "CustomName": "stone2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -82340,7 +82340,7 @@
     "KarmaType": null
   },
   "Xenogerm_Forgotten_Orc": {
-    "CustomName": null,
+    "CustomName": "orcxenogerm1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -82560,7 +82560,7 @@
     "KarmaType": null
   },
   "Xenogerm_Forgotten_Hobgoblin": {
-    "CustomName": null,
+    "CustomName": "hobgoblinxenogerm1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
