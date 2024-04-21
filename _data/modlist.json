@@ -1,277 +1,25 @@
 [
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Advanced Bionics Expansion",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.13.0"
   },
   {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   },
   {
-    "author": "zzz",
-    "name": "Wall Vitals Monitor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lanilor",
-    "name": "Simply More Bridges",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Sarg Bjornson and xrushha",
-    "name": "Vanilla Recycling Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - Mushrooms",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Grimm",
-    "name": "Un-Limited",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Underground Vault",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Underground Power Conduits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HaiLuan",
-    "name": "Custom Quest Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HaiLuan",
-    "name": "Tunnel and underground",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Steve",
-    "name": "Steves Loons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chaingunfighter1 / Slippin' Jimmy",
-    "name": "Shiny Steel",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Romyashi",
-    "name": "Scavenging",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Ancient Complex Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Garr Incorporated",
-    "name": "Rapid-fire Miniguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MO",
-    "name": "Ancient mining industry",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ocarina",
-    "name": "RainWorld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Samael Gray",
-    "name": "Power Creep Armory!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "neitsa",
-    "name": "Prepare Landing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sergwest",
-    "name": "No mountain landing mod",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "diddily",
-    "name": "Portal Gun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Visander Sovereign",
-    "name": "Opulent Gold",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Romyashi",
-    "name": "Drop Loot When Destroyed Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Romyashi",
-    "name": "Mountain Rarities",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "More Trade Ships (Continued)",
+    "author": "xrushha",
+    "name": "Buyable psylink neuroformers",
     "steamId": null,
     "version": null
   },
@@ -282,206 +30,86 @@
     "version": null
   },
   {
-    "author": "Sinnamon",
-    "name": "More Ritual Rewards",
-    "steamId": null,
-    "version": null
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
-    "author": "Superniquito",
-    "name": "Mod Options Sort",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Heat Map (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CaptainGeorge",
-    "name": "Malnutrition Reworked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Anonymous",
-    "name": "Languages",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrus",
-    "name": "Healer Mech Serum Choice",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "cucumpear",
-    "name": "Doomalope",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Leon The Hero",
-    "name": "Gunplay Sound Fix (for 1.4)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Stormtail",
-    "name": "Glittersteel",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mo",
-    "name": "Giant autocannon turret",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "theactualspinny",
-    "name": "Gene Trader",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dracoix",
-    "name": "Door Mat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dyrewulfe",
-    "name": "Food Poisoning Stack Fix (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "x3nit",
-    "name": "Easy Conversions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin",
-    "name": "Erin's Baldur's Gate 3 Hairs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "swablu",
-    "name": "Dungeon Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "telardo",
-    "name": "DragSelect",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lhoxris",
-    "name": "Blindsight - Truesight",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Techmago",
-    "name": "Boots and Stuff",
+    "author": "Sam",
+    "name": "Basic Double Doors",
     "steamId": null,
     "version": null
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.3"
   },
   {
-    "author": "Coalcat and sumghai",
-    "name": "Defensive Machine Gun Turret Pack",
-    "steamId": null,
-    "version": null
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "tiagorbrodrigues",
+    "name": "Quality Colors 1.5 - Forked",
+    "steamId": "3224462440",
+    "version": "1.0.0.0"
   },
   {
     "author": "民火",
-    "name": "Cut plants before building",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
+  },
+  {
+    "author": "Smuffle and OMGSplat",
+    "name": "Harvest Organs Post Mortem",
     "steamId": null,
     "version": null
   },
   {
-    "author": "tk421storm",
-    "name": "CleanWithHoses",
+    "author": "Slashandz",
+    "name": "Easy Conversions",
     "steamId": null,
     "version": null
   },
   {
-    "author": "japa4551",
-    "name": "Craftable Blindfold",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
     "steamId": null,
     "version": null
   },
   {
-    "author": "xrushha",
-    "name": "Buyable psylink neuroformers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Biome Transitions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Auto links",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "KenobiRock",
-    "name": "[KR] Star Wars Bacta",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
   },
@@ -492,33 +120,141 @@
     "version": null
   },
   {
-    "author": "XeoNovaDan and KiameV (original) & The Scout (current)",
-    "name": "[KV] Hand 'n' Footwear CONTINUED",
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.9.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Haecriver",
-    "name": "Assignment Copy",
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Night Owl",
+    "steamId": "2056012179",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Anonymous",
-    "name": "About",
+    "author": "bodlosh",
+    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Almost There!",
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Teok25",
-    "name": "Archotech Expanded",
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
+    "steamId": "2558042766",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.7.5.0"
+  },
+  {
+    "author": "Syrus",
+    "name": "Healer Mech Serum Choice",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0"
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.4.0"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "avilmask",
+    "name": "Grazing Lands",
+    "steamId": "1770268130",
+    "version": "1.0.0.0"
   }
 ]
