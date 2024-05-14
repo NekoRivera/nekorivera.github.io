@@ -75,19 +75,25 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.2.3"
+    "version": "2.6.2.4"
   },
   {
     "author": "Oskar Potocki and Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
-    "version": "1.4.8894.28669"
+    "version": "1.4.8896.39236"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee! (Continued)",
+    "steamId": "2900108163",
+    "version": "1.5.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -303,7 +309,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.5.0"
+    "version": "3.0.3.0"
   },
   {
     "author": "Syrus",
