@@ -5252,7 +5252,7 @@
 	},
 	{
 		"abr": "anchovy",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
@@ -6074,7 +6074,7 @@
 	},
 	{
 		"abr": "guppy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
@@ -6446,7 +6446,7 @@
 	},
 	{
 		"abr": "mashedpomana",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "TM_RawPomanaMash"
 	},
@@ -6476,7 +6476,7 @@
 	},
 	{
 		"abr": "minnow",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
@@ -6794,7 +6794,7 @@
 	},
 	{
 		"abr": "sprat",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSprat"
 	},
