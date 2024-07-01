@@ -1609,12 +1609,6 @@
 		"defname": "Husky"
 	},
 	{
-		"abr": "monkey",
-		"price": 167,
-		"category": "Animals",
-		"defname": "Monkey"
-	},
-	{
 		"abr": "chicken",
 		"price": 83,
 		"category": "Animals",
@@ -5558,7 +5552,7 @@
 	},
 	{
 		"abr": "cleaningbot",
-		"price": 17,
+		"price": 500,
 		"category": "Animal",
 		"defname": "AIRobot_Cleaner"
 	},
@@ -7125,7 +7119,7 @@
 	{
 		"abr": "adaptioncream",
 		"price": 83,
-		"category": "Medicine",
+		"category": "Manufactured",
 		"defname": "PM_AdaptionCream"
 	},
 	{
@@ -7148,7 +7142,7 @@
 	},
 	{
 		"abr": "ancientairconditioner",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientAirConditioner"
 	},
@@ -7160,7 +7154,7 @@
 	},
 	{
 		"abr": "ancientatm",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientATM"
 	},
@@ -7196,7 +7190,7 @@
 	},
 	{
 		"abr": "ancientengineblock",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRustedEngineBlock"
 	},
@@ -7208,7 +7202,7 @@
 	},
 	{
 		"abr": "ancientfence",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientFence"
 	},
@@ -7220,7 +7214,7 @@
 	},
 	{
 		"abr": "ancientgiantwheel",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGiantWheel"
 	},
@@ -7232,19 +7226,19 @@
 	},
 	{
 		"abr": "ancienthydrant",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientHydrant"
 	},
 	{
 		"abr": "ancientkitchensink",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientKitchenSink"
 	},
 	{
 		"abr": "ancientlargecrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLargeCrate"
 	},
@@ -7256,7 +7250,7 @@
 	},
 	{
 		"abr": "ancientlongcrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLongCrate"
 	},
@@ -7268,7 +7262,7 @@
 	},
 	{
 		"abr": "ancientmacro-engineblock",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLargeRustedEngineBlock"
 	},
@@ -7298,7 +7292,7 @@
 	},
 	{
 		"abr": "ancientmicrowave",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMicrowave"
 	},
@@ -7322,7 +7316,7 @@
 	},
 	{
 		"abr": "ancientoven",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientOven"
 	},
@@ -7334,7 +7328,7 @@
 	},
 	{
 		"abr": "ancientpostbox",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientPostbox"
 	},
@@ -7346,7 +7340,7 @@
 	},
 	{
 		"abr": "ancientrefrigerator",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRefrigerator"
 	},
@@ -7364,13 +7358,13 @@
 	},
 	{
 		"abr": "ancientshoppingcart",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientShoppingCart"
 	},
 	{
 		"abr": "ancientsmallcrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSmallCrate"
 	},
@@ -7394,7 +7388,7 @@
 	},
 	{
 		"abr": "ancientstove",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientStove"
 	},
@@ -7412,25 +7406,25 @@
 	},
 	{
 		"abr": "ancienttoilet",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientToilet"
 	},
 	{
 		"abr": "ancientvendingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientVendingMachine"
 	},
 	{
 		"abr": "ancientwashingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientWashingMachine"
 	},
 	{
 		"abr": "ancientwheel",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientWheel"
 	},
@@ -8163,7 +8157,7 @@
 	{
 		"abr": "haltcream",
 		"price": 58,
-		"category": "Medicine",
+		"category": "Manufactured",
 		"defname": "PM_HaltCream"
 	},
 	{
@@ -8732,7 +8726,7 @@
 	},
 	{
 		"abr": "nyaron",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Nyaron"
 	},
@@ -9002,7 +8996,7 @@
 	},
 	{
 		"abr": "rabbie",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rabbie"
 	},
@@ -9266,7 +9260,7 @@
 	},
 	{
 		"abr": "ratkin",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ratkin"
 	},
@@ -9656,7 +9650,7 @@
 	},
 	{
 		"abr": "ratkinsubject",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ratkin_Su"
 	},
@@ -9747,7 +9741,7 @@
 	{
 		"abr": "reverter",
 		"price": 500,
-		"category": "Medicine",
+		"category": "Injector",
 		"defname": "ReversionSyringe"
 	},
 	{
@@ -9989,7 +9983,7 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "RB_BionicTail"
-	}
+	},
 	],
-	"total": 1665
+	"total": 1727
 }
