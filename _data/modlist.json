@@ -39,12 +39,18 @@
     "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
-    "version": "1.4.8986.18107"
+    "version": "1.4.9034.22423"
   },
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
     "version": "1.0.0.0"
   },
   {
@@ -54,10 +60,136 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
     "name": "RimFridge: Now with Shelves!",
     "steamId": "2898411376",
     "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "alite",
+    "name": "EBSG Framework",
+    "steamId": "3112549163",
+    "version": "1.0.9069.36867"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - More Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign and Elseud",
+    "name": "Nephilim Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign and Visandar",
+    "name": "Seraphim Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Minotaur Xenotype",
+    "steamId": "2927812651",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Faun Xenotype",
+    "steamId": "2971801826",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Satyr Xenotype",
+    "steamId": "2971803439",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MasterPNJ",
+    "name": "Multi-Doctor Surgery",
+    "steamId": "3356249192",
+    "version": "1.0.0+efcbb4596b9da9ef8a2b4e6a74e3a46a3a71a7f8"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": "2193152410",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Satyr and Faun Xenotypes Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Minotaur Xenotype Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DetVisor",
+    "name": "Det's Xenotypes - Venators",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "3.0.5"
+  },
+  {
+    "author": "DetVisor and Feldoh",
+    "name": "Det's Xenotypes - Stoneborn",
+    "steamId": "2888722722",
+    "version": "1.0.0.0"
   },
   {
     "author": "Little White Mouse",
@@ -66,28 +198,52 @@
     "version": "1.5.0.4"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.4"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
+    "author": "DetVisor",
+    "name": "Det's Xenotypes - Boglegs",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Smart Farming",
-    "steamId": "3220129183",
-    "version": "1.5"
+    "author": "DetVisor",
+    "name": "Det's Xenotypes - Avaloi",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "RebelRabbit, Taranchuk and ilyvion",
-    "name": "Quality Bionics (Continued)",
-    "steamId": "3236892428",
-    "version": "0.2.1"
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded - Puppeteer",
+    "steamId": "3033779606",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Sovereign and Elseud",
+    "name": "Beliar Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth and Toby",
+    "name": "Better autocasting for Vanilla Psycasts Expanded",
+    "steamId": "3199585285",
+    "version": "5.0.2.2+8729c03091c350eda5eb49fad1603de74cfb399b"
+  },
+  {
+    "author": "ThatHitmann",
+    "name": "Geneva Checklist",
+    "steamId": "3339044171",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
   },
   {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
@@ -100,6 +256,54 @@
     "name": "Combat Extended",
     "steamId": "2890901044",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Smart Farming",
+    "steamId": "3220129183",
+    "version": "1.5"
+  },
+  {
+    "author": "RebelRabbit, Taranchuk and ilyvion",
+    "name": "Quality Bionics (Continued)",
+    "steamId": "3236892428",
+    "version": "0.2.1"
   },
   {
     "author": "Dubwise",
@@ -145,12 +349,6 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
     "steamId": "2186560858",
     "version": "1.0.0.0"
@@ -169,12 +367,6 @@
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
@@ -184,18 +376,6 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Haplo",
@@ -231,12 +411,6 @@
     "author": "Uuugggg",
     "name": "Mining Priority",
     "steamId": "1345928533",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
     "version": "1.0.0.0"
   },
   {
@@ -298,12 +472,6 @@
     "name": "Vanilla Races Expanded - Insector",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": "2193152410",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Kikohi",
@@ -418,12 +586,6 @@
     "name": "Trader ships",
     "steamId": "2046222331",
     "version": "1.0.350.0854"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
   },
   {
     "author": "swemoney",
@@ -744,12 +906,6 @@
     "version": null
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
-  },
-  {
     "author": "KittahKhan",
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
@@ -766,12 +922,6 @@
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -831,7 +981,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
+    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
   },
   {
     "author": "m00nl1ght-dev",
@@ -880,18 +1030,6 @@
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded - Puppeteer",
-    "steamId": "3033779606",
-    "version": "1.0.2.0"
   },
   {
     "author": "RemingtonRyder",
@@ -946,12 +1084,6 @@
     "name": "Do Something for Idle",
     "steamId": "1896806569",
     "version": "1.0.1.2"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Guards For Me",
-    "steamId": "1855885448",
-    "version": "3.0.9.0"
   },
   {
     "author": "AobaKuma OttersHoldHands iforgotmysocks",
