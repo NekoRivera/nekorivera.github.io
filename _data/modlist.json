@@ -48,12 +48,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "RedMattis",
-    "name": "Big and Small - Framework",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -72,44 +66,26 @@
     "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
-    "author": "alite",
-    "name": "EBSG Framework",
-    "steamId": "3112549163",
-    "version": "1.0.9069.36867"
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Genes & More",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - More Xenotypes",
-    "steamId": null,
-    "version": null
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "3.0.5"
   },
   {
     "author": "Sovereign and Elseud",
     "name": "Nephilim Xenotype",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sovereign and Visandar",
-    "name": "Seraphim Xenotype",
     "steamId": null,
     "version": null
   },
@@ -132,10 +108,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "MasterPNJ",
-    "name": "Multi-Doctor Surgery",
-    "steamId": "3356249192",
-    "version": "1.0.0+efcbb4596b9da9ef8a2b4e6a74e3a46a3a71a7f8"
+    "author": "Sovereign and Visandar",
+    "name": "Seraphim Xenotype",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -180,22 +156,10 @@
     "version": null
   },
   {
-    "author": "Inglix",
-    "name": "Faster Biosculpter Pod",
-    "steamId": "2576257954",
-    "version": "3.0.5"
-  },
-  {
     "author": "DetVisor and Feldoh",
     "name": "Det's Xenotypes - Stoneborn",
     "steamId": "2888722722",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.5.0.4"
   },
   {
     "author": "DetVisor",
@@ -210,28 +174,16 @@
     "version": null
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Oskar Potocki, Taranchuk and Reann Shepard",
     "name": "Vanilla Psycasts Expanded - Puppeteer",
     "steamId": "3033779606",
     "version": "1.0.2.0"
   },
   {
-    "author": "Sovereign and Elseud",
-    "name": "Beliar Xenotype",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "5.0.2.2+8729c03091c350eda5eb49fad1603de74cfb399b"
+    "version": "5.0.3.0+dae24742ea804a4037982260b8eb52a908b543cc"
   },
   {
     "author": "ThatHitmann",
@@ -376,6 +328,18 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Haplo",
@@ -918,7 +882,7 @@
     "version": null
   },
   {
-    "author": "Allie, Erin and Sarg",
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
