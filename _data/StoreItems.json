@@ -3435,7 +3435,7 @@
 	{
 		"abr": "eltexcape",
 		"price": 1333,
-		"category": "Apparel",
+		"category": "Misc",
 		"defname": "VPE_Apparel_EltexCape"
 	},
 	{
@@ -13975,58 +13975,22 @@
 		"defname": "RBSFE_AnimaRod"
 	},
 	{
-		"abr": "animalgiantizer",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_Giant_Serum"
+		"abr": "archotechendogenefier",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoEndogenefier"
 	},
 	{
-		"abr": "animalminimizer",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_Shrink_Serum"
+		"abr": "archotechgeneremover",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoGeneRemover"
 	},
 	{
-		"abr": "anomalousshard",
-		"price": 667,
-		"category": "Manufactured",
-		"defname": "BS_DarkSoulshard"
-	},
-	{
-		"abr": "architegenomecloner",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_CreateArchiteXenogerm_Endo"
-	},
-	{
-		"abr": "architexenogermcloner",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_CreateArchiteXenogerm"
-	},
-	{
-		"abr": "archotechapparel-integrator",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "BS_IndestructibelApparel"
-	},
-	{
-		"abr": "bioniclocomotivespine",
-		"price": 4025,
-		"category": "Bionic",
-		"defname": "BS_BionicLocomotiveSpine"
-	},
-	{
-		"abr": "bionicstriderleg",
-		"price": 1733,
-		"category": "Bionic",
-		"defname": "BS_BionicStriderLeg"
-	},
-	{
-		"abr": "bloodletterblade",
-		"price": 1833,
-		"category": "Melee weapons",
-		"defname": "BX_BloodletterBlade"
+		"abr": "archotechxenogenefier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_ArchoXenogenefier"
 	},
 	{
 		"abr": "bodhrán",
@@ -14039,18 +14003,6 @@
 		"price": 2833,
 		"category": "Herculean weapons",
 		"defname": "RBM_Bullslinger"
-	},
-	{
-		"abr": "carnivorelargefinemeal",
-		"price": 100,
-		"category": "Meals",
-		"defname": "BS_MealLargeFine_Meat"
-	},
-	{
-		"abr": "carnivorelargelavishmeal",
-		"price": 120,
-		"category": "Meals",
-		"defname": "BS_MealLargeLavish_Meat"
 	},
 	{
 		"abr": "chiton",
@@ -14161,401 +14113,83 @@
 		"defname": "RBSFE_Faerrow"
 	},
 	{
-		"abr": "finelargemeal",
-		"price": 100,
-		"category": "Meals",
-		"defname": "BS_MealLargeFine"
-	},
-	{
-		"abr": "fourarmedhuman",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "BS_HumanFouramed"
-	},
-	{
-		"abr": "geneintegrator",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_GeneGeneIntegrator"
-	},
-	{
-		"abr": "germlinecloner",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_CreateXenogerm_Endo"
-	},
-	{
-		"abr": "giantclub",
-		"price": 417,
-		"category": "Melee weapons",
-		"defname": "BS_OgreClub"
-	},
-	{
-		"abr": "giantprimitivehammer",
-		"price": 492,
-		"category": "Melee weapons",
-		"defname": "BS_GiantHammer"
-	},
-	{
-		"abr": "giantsword",
-		"price": 792,
-		"category": "Melee weapons",
-		"defname": "BS_JotunSword"
-	},
-	{
-		"abr": "giantwarhammer",
-		"price": 1158,
-		"category": "Melee weapons",
-		"defname": "BS_JotunHammer"
-	},
-	{
-		"abr": "glutton",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "BS_GluttonRace"
-	},
-	{
-		"abr": "grace",
-		"price": 37,
-		"category": "Foods",
-		"defname": "GracePack"
-	},
-	{
-		"abr": "growthray",
-		"price": 2142,
-		"category": "Ranged weapons",
-		"defname": "BMad_GrowthRay"
-	},
-	{
-		"abr": "growth-raymini-turret",
-		"price": 2817,
-		"category": "Security",
-		"defname": "BMAD_GrowthTurret"
-	},
-	{
-		"abr": "hellenichelmet",
-		"price": 253,
-		"category": "Headgear",
-		"defname": "RBME_HellenicHelmet"
-	},
-	{
-		"abr": "hollillypowder",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "HolyPowder"
-	},
-	{
-		"abr": "huntervisage",
-		"price": 226,
-		"category": "Headgear",
-		"defname": "DV_Apparel_HunterVisage"
-	},
-	{
-		"abr": "insect-likehumanoid",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "BS_InsectoidHumanoid_FourArmed"
-	},
-	{
-		"abr": "kidfaegarms",
-		"price": 109,
-		"category": "Fae apparel",
-		"defname": "RBSFE_KidFaegarms"
-	},
-	{
-		"abr": "knuckledusters",
-		"price": 97,
-		"category": "Utility",
-		"defname": "DV_Handwear_KnuckleDusters"
-	},
-	{
-		"abr": "labrys",
-		"price": 3833,
-		"category": "Herculean weapons",
-		"defname": "RBM_Labrys"
-	},
-	{
-		"abr": "laserchargepack",
-		"price": 1,
-		"category": "Laser charge pack",
-		"defname": "Ammo_LaserChargePack"
-	},
-	{
-		"abr": "lavishlargemeal",
-		"price": 200,
-		"category": "Meals",
-		"defname": "BS_MealLargeLavish"
-	},
-	{
-		"abr": "leaftrap",
-		"price": 137,
-		"category": "Security",
-		"defname": "RBSFE_LeafTrap"
-	},
-	{
-		"abr": "lute",
-		"price": 88,
-		"category": "Ranged weapons",
-		"defname": "RBSF_Lute"
-	},
-	{
-		"abr": "lyre",
-		"price": 67,
-		"category": "Ranged weapons",
-		"defname": "RBSF_Lyre"
-	},
-	{
-		"abr": "melodicelegymusicsheet",
-		"price": 3333,
-		"category": "Misc",
-		"defname": "RBSF_MelodicElegySheet"
-	},
-	{
-		"abr": "melodichealingsongmusicsheet",
-		"price": 2417,
-		"category": "Misc",
-		"defname": "RBSF_MelodicHealingSongSheet"
-	},
-	{
-		"abr": "melodichymnmusicsheet",
-		"price": 1250,
-		"category": "Misc",
-		"defname": "RBSF_MelodicHymnSheet"
-	},
-	{
-		"abr": "melodiclullabymusicsheet",
-		"price": 2917,
-		"category": "Misc",
-		"defname": "RBSF_MelodicLullabySheet"
-	},
-	{
-		"abr": "melodicsonatamusicsheet",
-		"price": 1583,
-		"category": "Misc",
-		"defname": "RBSF_MelodicSonataSheet"
-	},
-	{
-		"abr": "melodicwarcallmusicsheet",
-		"price": 2000,
-		"category": "Misc",
-		"defname": "RBSF_MelodicWarcallSheet"
-	},
-	{
-		"abr": "midaspear",
-		"price": 4583,
-		"category": "Herculean weapons",
-		"defname": "RBM_Midaspear"
-	},
-	{
-		"abr": "muffalope",
-		"price": 467,
-		"category": "Animals",
-		"defname": "RBSFE_Muffalope"
-	},
-	{
-		"abr": "muffalopemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RBSFE_Muffalope"
-	},
-	{
-		"abr": "oxenammer",
-		"price": 3833,
-		"category": "Herculean weapons",
-		"defname": "RBM_Oxenammer"
-	},
-	{
-		"abr": "packagedlargesurvivalmeal",
-		"price": 120,
-		"category": "Meals",
-		"defname": "BS_MealLargeSurvivalPack"
-	},
-	{
-		"abr": "panoply",
-		"price": 5000,
-		"category": "Herculean apparel",
-		"defname": "RBME_Panoply"
-	},
-	{
-		"abr": "pelekys",
-		"price": 204,
-		"category": "Ranged weapons",
-		"defname": "RBME_Pelekys"
-	},
-	{
-		"abr": "personaskrýmir'smallet",
-		"price": 5833,
-		"category": "Persona weapons",
-		"defname": "BS_SkrymirHammer_Persona"
-	},
-	{
-		"abr": "personaswordofsurtr",
-		"price": 5833,
-		"category": "Persona weapons",
-		"defname": "BS_SurtrSword_Persona"
-	},
-	{
-		"abr": "reedflute",
-		"price": 58,
-		"category": "Ranged weapons",
-		"defname": "RBSF_ReedFlute"
-	},
-	{
-		"abr": "royalhellenichelmet",
-		"price": 375,
-		"category": "Headgear",
-		"defname": "RBME_RoyalHellenicHelmet"
-	},
-	{
-		"abr": "rpg-7grenade(frag)",
-		"price": 63,
-		"category": "RPG-7 grenades",
-		"defname": "Ammo_RPG7Grenade_Frag"
-	},
-	{
-		"abr": "rpg-7grenade(heat)",
-		"price": 88,
-		"category": "RPG-7 grenades",
-		"defname": "Ammo_RPG7Grenade_HEAT"
-	},
-	{
-		"abr": "rpg-7grenade(thermobaric)",
-		"price": 174,
-		"category": "RPG-7 grenades",
-		"defname": "Ammo_RPG7Grenade_Thermobaric"
-	},
-	{
-		"abr": "shrinkray",
-		"price": 2142,
-		"category": "Ranged weapons",
-		"defname": "BMad_ShrinkRay"
-	},
-	{
-		"abr": "shrink-raymini-turret",
-		"price": 2817,
-		"category": "Security",
-		"defname": "BMAD_ShrinkTurret"
-	},
-	{
-		"abr": "simplelargemeal",
-		"price": 75,
-		"category": "Meals",
-		"defname": "BS_MealLargeSimple"
-	},
-	{
-		"abr": "six-armedsnake-person",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "BS_Marlith"
-	},
-	{
-		"abr": "skrýmir'smallet",
-		"price": 4167,
-		"category": "Melee weapons",
-		"defname": "BS_SkrymirHammer"
-	},
-	{
-		"abr": "sling",
-		"price": 118,
-		"category": "Ranged weapons",
-		"defname": "RBME_Sling"
-	},
-	{
-		"abr": "snake-person",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "BS_Naga"
-	},
-	{
-		"abr": "spider-person",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "BS_SpiderPersonRace"
-	},
-	{
-		"abr": "swordofsurtr",
-		"price": 4167,
-		"category": "Melee weapons",
-		"defname": "BS_SurtrSword"
-	},
-	{
-		"abr": "tailcoat",
-		"price": 342,
+		"abr": "forsakenarmor",
+		"price": 5858,
 		"category": "Apparel",
-		"defname": "RBApparel_Tailcoat"
+		"defname": "AG_ForsakenMarineArmor"
 	},
 	{
-		"abr": "taurailgun",
-		"price": 7500,
-		"category": "Herculean weapons",
-		"defname": "RBM_TaurailGun"
+		"abr": "forsakenassaultrifle",
+		"price": 3175,
+		"category": "Weapons",
+		"defname": "AG_ForsakenAssaultRifle"
 	},
 	{
-		"abr": "throwingchunks",
-		"price": 83,
-		"category": "Ranged weapons",
-		"defname": "BS_OgreThrowinRock"
+		"abr": "forsakenbattleaxe",
+		"price": 2033,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBattleAxe"
 	},
 	{
-		"abr": "trilenseglasses",
-		"price": 45,
-		"category": "Headgear",
-		"defname": "DV_Headgear_AvaloiGlasses"
+		"abr": "forsakenblackhydra",
+		"price": 1917,
+		"category": "Weapons",
+		"defname": "AG_ForsakenHydra"
 	},
 	{
-		"abr": "tunbell",
-		"price": 3500,
-		"category": "Herculean weapons",
-		"defname": "RBM_Tunbell"
+		"abr": "forsakenbow",
+		"price": 209,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBow"
 	},
 	{
-		"abr": "vegetarianlargefinemeal",
-		"price": 100,
-		"category": "Meals",
-		"defname": "BS_MealLargeFine_Veg"
+		"abr": "forsakenbulksword",
+		"price": 933,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBulkSword"
 	},
 	{
-		"abr": "vegetarianlargelavishmeal",
-		"price": 200,
-		"category": "Meals",
-		"defname": "BS_MealLargeLavish_Veg"
+		"abr": "forsakencloak",
+		"price": 1125,
+		"category": "Apparel",
+		"defname": "AG_ForsakenCloak"
 	},
 	{
-		"abr": "warmechanti-materialrifle",
-		"price": 1550,
-		"category": "Ranged weapons",
-		"defname": "BS_JotunRifle"
+		"abr": "forsakenforge",
+		"price": 358,
+		"category": "Production",
+		"defname": "AG_ForsakenForge"
 	},
 	{
-		"abr": "warmechmachinegun",
-		"price": 2850,
-		"category": "Ranged weapons",
-		"defname": "BS_GiantMinigun"
+		"abr": "forsakenhelmet",
+		"price": 1367,
+		"category": "Apparel",
+		"defname": "AG_ForsakenMarineHelmet"
 	},
 	{
-		"abr": "warmechrocketlauncher",
-		"price": 2600,
-		"category": "Ranged weapons",
-		"defname": "BS_JotunRocketLauncher"
+		"abr": "forsakenhood",
+		"price": 517,
+		"category": "Apparel",
+		"defname": "AG_Forsaken_Hood"
 	},
 	{
-		"abr": "xenodiscombobulator",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_GeneDicombobulator"
+		"abr": "forsakenkidcloak",
+		"price": 708,
+		"category": "Apparel",
+		"defname": "AG_ForsakenCloak_Child"
 	},
 	{
-		"abr": "xenogermcloner",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_CreateXenogerm"
+		"abr": "forsakenkidhood",
+		"price": 286,
+		"category": "Apparel",
+		"defname": "AG_Forsaken_Hood_Child"
 	},
 	{
-		"abr": "xeno-germlinemirroring",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_XenoCopy"
-	}
+		"abr": "forsakenlongblade",
+		"price": 1700,
+		"category": "Weapons",
+		"defname": "AG_ForsakenLongBlade"
+	},
 	],
-	"total": 2426
+	"total": 2400
 }
