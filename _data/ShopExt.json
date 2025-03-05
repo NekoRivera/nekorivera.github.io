@@ -9503,6 +9503,84 @@
       },
       "defName": "BS_Unpretentious",
       "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is now a natural hunter.",
+      "stats": [
+        "+1 shooting",
+        "+1 animals"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
+      "stats": [],
+      "conflicts": [
+        "bodymodder",
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodymodder",
+          "bodypurist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PM_PridefulTrait",
+      "name": "prideful"
     }
   ],
   "races": [
@@ -9548,6 +9626,99 @@
       "defName": "CreepJoiner",
       "enabled": true,
       "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+120% Psychic sensitivity",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Designer mates are genetically engineered on glitterworlds to be the perfect mate. This is a decendant of one of them that still inherits most of the traits.",
+      "defName": "DesignerMatesXH",
+      "enabled": true,
+      "name": "designer mate",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.20 Move speed",
+          "+54.0F Min comfortable temperature",
+          "+82.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+6.0% Armor - Blunt",
+          "+12.0% Armor - Sharp",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A genetically modified human. Either through gene therapy or environmental pressure this kind of human has developed a think leathery skin. Scalemen are slightly slower and tire quicker than normal humans but they are highly adapted to hot biomes, need less food and have some natural armor.",
+      "defName": "ScaleManXH",
+      "enabled": true,
+      "name": "Scaleman",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Min comfortable temperature",
+          "+46.8F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A genetically altered human usually breed for combat. Soldiermorphs feel less pain, are tougher and need less food. However they have a very low life expectancy and learn new things slower than an average human.",
+      "defName": "SoldiermorphXH",
+      "enabled": true,
+      "name": "soldiermorph",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "-25.2F Min comfortable temperature",
+          "+39.6F Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+8.0% Armor - Blunt",
+          "+6.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A genetically altered version of the baseline human. This wolflike human has altered hands with retractable claws capable of inflicting serious damage. Animallike instincts are more present in this person and wolfmen often have a short fuse and are easy to anger.",
+      "defName": "WolfManXH",
+      "enabled": true,
+      "name": "wolfman",
       "price": 2917
     }
   ]
