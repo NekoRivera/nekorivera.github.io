@@ -3,12 +3,12 @@
 	{
 		"abr": "tornado",
 		"price": 9000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
 		"price": 9000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -129,6 +129,11 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 1000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -426,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 86
 }
