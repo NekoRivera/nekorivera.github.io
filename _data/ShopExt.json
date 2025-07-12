@@ -1498,7 +1498,7 @@
       "addPrice": 3500,
       "removePrice": 1,
       "degree": 2,
-      "description": "Timmy thrives on keeping busy and finds great satisfaction in completing tasks efficiently. Timmy's work speed is significantly increased, making he a valuable asset to any team.",
+      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
         "+35% global work speed"
       ],
@@ -1528,7 +1528,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Job Satisfaction",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
@@ -1540,7 +1540,7 @@
       "addPrice": 3500,
       "removePrice": 1,
       "degree": 1,
-      "description": "Timmy takes pride in being productive and feels a sense of accomplishment from finishing tasks quickly. Timmy works faster than most, enjoying the rewards of his hard work.",
+      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
         "+20% global work speed"
       ],
@@ -1570,7 +1570,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Job Satisfaction",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
@@ -1582,7 +1582,7 @@
       "addPrice": 3500,
       "removePrice": 1,
       "degree": -1,
-      "description": "Timmy is not very motivated and finds work less rewarding. Timmy's reduced work speed means he is less effective and derives less satisfaction from his tasks.",
+      "description": "Timmy is a little bit lazy.",
       "stats": [
         "-20% global work speed"
       ],
@@ -1612,7 +1612,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Job Satisfaction",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
@@ -1624,7 +1624,7 @@
       "addPrice": 3500,
       "removePrice": 1,
       "degree": -2,
-      "description": "Timmy struggles with motivation and feels little satisfaction from working. Timmy prefers idleness and finds even the simplest tasks burdensome, moving slowly and struggling to stay engaged.",
+      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% global work speed"
       ],
@@ -1654,7 +1654,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Job Satisfaction",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
@@ -2203,40 +2203,6 @@
       },
       "defName": "VoidFascination",
       "name": "voidfascination"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 1,
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "+95% toxic resistance",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "+95% toxic resistance",
-          "-90% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot"
     },
     {
       "canAdd": true,
@@ -3748,79 +3714,165 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 1,
+      "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy knows the spirit of all arms. If he is not bonded to a weapon already, upon equipping a non-biocodable melee weapon, it will generate a single persona weapon trait and will bond to them. Should Timmy ever unequip the weapon, it will lose these traits.",
+      "description": "Timmy has exceptionally basic common traits.",
       "stats": [
-        "+4 melee",
-        "+2.5 melee hit chance"
+        "+2 construction",
+        "+2 melee",
+        "+2 mining",
+        "+8.0% Armor - Blunt",
+        "+8.0% Armor - Sharp",
+        "+8.0% Armor - Heat",
+        "+8% general labor speed",
+        "+8% global learning factor",
+        "+8% immunity gain speed",
+        "-2.8% incoming damage multiplier",
+        "+8% injury healing factor",
+        "+0.08 max nutrition",
+        "+8% melee armor penetration",
+        "-8% melee cooldown",
+        "+8.8% melee damage factor",
+        "+0.1 melee dodge chance",
+        "+0.1 melee hit chance",
+        "-8% mental break threshold",
+        "+8% mining speed",
+        "+8% mining yield",
+        "+0.08 move speed",
+        "+8.00% negotiation ability",
+        "+8% pain shock threshold",
+        "+8% psychic sensitivity",
+        "+8% research speed",
+        "+8% rest rate multiplier",
+        "+8% global work speed",
+        "+0.1F max comfortable temperature",
+        "-0.1F min comfortable temperature",
+        "+0.089 honor value",
+        "+8% / day meditation psyfocus gain",
+        "+0.1 neural heat limit",
+        "+0.08 neural heat recovery rate",
+        "x108% Mass carry capacity"
+      ],
+      "conflicts": [
+        "slowlearner",
+        "pyromaniac",
+        "wimp",
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner",
+          "pyromaniac",
+          "wimp",
+          "bodypurist"
+        ],
+        "stats": [
+          "+2 construction",
+          "+2 melee",
+          "+2 mining",
+          "+8.0% Armor - Blunt",
+          "+8.0% Armor - Sharp",
+          "+8.0% Armor - Heat",
+          "+8% general labor speed",
+          "+8% global learning factor",
+          "+8% immunity gain speed",
+          "-2.8% incoming damage multiplier",
+          "+8% injury healing factor",
+          "+0.08 max nutrition",
+          "+8% melee armor penetration",
+          "-8% melee cooldown",
+          "+8.8% melee damage factor",
+          "+0.1 melee dodge chance",
+          "+0.1 melee hit chance",
+          "-8% mental break threshold",
+          "+8% mining speed",
+          "+8% mining yield",
+          "+0.08 move speed",
+          "+8.00% negotiation ability",
+          "+8% pain shock threshold",
+          "+8% psychic sensitivity",
+          "+8% research speed",
+          "+8% rest rate multiplier",
+          "+8% global work speed",
+          "+0.1F max comfortable temperature",
+          "-0.1F min comfortable temperature",
+          "+0.089 honor value",
+          "+8% / day meditation psyfocus gain",
+          "+0.1 neural heat limit",
+          "+0.08 neural heat recovery rate",
+          "x108% Mass carry capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "(RD)BasicThings",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VeryCommon",
+      "name": "verycommon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has moderate combat capability.",
+      "stats": [
+        "+6 melee",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "+20.0% Armor - Heat",
+        "+20% general labor speed",
+        "-20% incoming damage multiplier",
+        "+20% injury healing factor",
+        "+20% melee armor penetration",
+        "-20% melee cooldown",
+        "+20% melee damage factor",
+        "+0.2 melee dodge chance",
+        "+0.2 melee hit chance",
+        "-20% mental break threshold",
+        "+0.20 move speed",
+        "+20% pain shock threshold",
+        "x120% Mass carry capacity"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+4 melee",
-          "+2.5 melee hit chance"
+          "+6 melee",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+20% general labor speed",
+          "-20% incoming damage multiplier",
+          "+20% injury healing factor",
+          "+20% melee armor penetration",
+          "-20% melee cooldown",
+          "+20% melee damage factor",
+          "+0.2 melee dodge chance",
+          "+0.2 melee hit chance",
+          "-20% mental break threshold",
+          "+0.20 move speed",
+          "+20% pain shock threshold",
+          "x120% Mass carry capacity"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "More Persona Traits",
+        "mod": "(RD)BasicThings",
         "karmaTypeForAdding": null
       },
-      "defName": "MPT_BladeWhisperer",
-      "name": "bladewhisperer"
+      "defName": "Scrappy",
+      "name": "scrappy"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 1,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys being fed on by sanguophages, he loves to feel the rush of extasis that comes with the bite.",
       "stats": [],
@@ -3850,7 +3902,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 1,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy understands that sanguophages need blood to survive and is okay with helping a sanguophage friend out by gifting some blood.",
       "stats": [],
@@ -3880,7 +3932,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 1,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy hates sanguophages and will always feel on edge when around them.",
       "stats": [],
@@ -3912,97 +3964,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has extensive experience in construction and crafting. he will work faster than others and nearly always succeed at construction and repairs.",
-      "stats": [
-        "+25% construction speed",
-        "+25% construct success chance",
-        "+25% repair success chance",
-        "+25% smoothing speed",
-        "+25% smelting speed",
-        "+25% general labor speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+25% construction speed",
-          "+25% construct success chance",
-          "+25% repair success chance",
-          "+25% smoothing speed",
-          "+25% smelting speed",
-          "+25% general labor speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Integrated Creep Joiners",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MasterCraftsmanTrait",
-      "name": "craftsmaster"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has extensive experience in cooking. he will cook faster than others and never cause food poisoning.",
-      "stats": [
-        "+5.0 cooking speed",
-        "-100.00% food poison chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5.0 cooking speed",
-          "-100.00% food poison chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Integrated Creep Joiners",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MasterCookTrait",
-      "name": "masterchef"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is predisposed towards violence and will frequently try to harm others.",
-      "stats": [
-        "Morbid meditation focus type allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Morbid meditation focus type allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Integrated Creep Joiners",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ViolentMind",
-      "name": "violentmind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A strict principle of nonviolence which applies to all living things.",
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -4012,11 +3974,33 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Memes",
+        "mod": "Vanilla Fishing Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "AM_Ahimsa",
-      "name": "vowofnonviolence"
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
     }
   ],
   "races": [
@@ -4031,7 +4015,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4053,7 +4038,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
