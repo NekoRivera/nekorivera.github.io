@@ -3,19 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.9.1"
-  },
-  {
-    "author": "Dracora",
-    "name": "(RD)BasicThings",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -30,9 +24,27 @@
     "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
+    "author": "RedMattis",
+    "name": "Better Gene Inheritance",
+    "steamId": "3046776238",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades",
+    "steamId": "3365118555",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cyanobot",
+    "name": "Talking Isn't Everything",
+    "steamId": "3265662295",
     "version": "1.0.0.0"
   },
   {
@@ -54,9 +66,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Chad",
-    "name": "Almostthere1.6",
-    "steamId": "3232229153",
+    "author": "Nina.Goblin",
+    "name": "Allies are Helpful",
+    "steamId": "3534920369",
     "version": "1.0.0.0"
   },
   {
@@ -64,6 +76,30 @@
     "name": "Vanilla Psycasts Expanded - Hemosage",
     "steamId": "2990596478",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "3513789221",
+    "version": "11.0.5"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Snues",
+    "name": "Auto Arm",
+    "steamId": "3516409503",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee! (Continued)",
+    "steamId": "2900108163",
+    "version": "1.6.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -81,13 +117,13 @@
     "author": "RemingtonRyder",
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
-    "version": "1.0.9323.42957"
+    "version": "1.0.9367.38441"
   },
   {
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.29"
+    "version": "1.6.79"
   },
   {
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
@@ -120,12 +156,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "GoGaTio",
-    "name": "Mechanoid Upgrades",
-    "steamId": "3365118555",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "vin",
     "name": "LWM's Adaptive Deep Storage",
     "steamId": null,
@@ -153,19 +183,13 @@
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "6.0.0.0+f824e259571754becf85c9f6683f41ed505d22e2"
+    "version": "6.2.0.0+e18fd770e8c0baf6d5b08c3c7d0e013a9d9f68d6"
   },
   {
     "author": "Slime-Senpai",
     "name": "EndlessGrowth",
     "steamId": "2894401734",
     "version": "1.5.2.0+61694815f123034bf8a029db2bbc8e693a4d9214"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "3513789221",
-    "version": "11.0.5"
   },
   {
     "author": "Crow",
@@ -186,18 +210,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
     "author": "Chicken Plucker and Taranchuk",
     "name": "[RH2] Hand-To-Hand",
     "steamId": "2556532381",
@@ -207,7 +219,7 @@
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
-    "version": "1.6.1.0+492f9a497c6ad041f5de422ae8b708e2c21d8cfa"
+    "version": "1.6.1.3+e339a5ca077cefe8005be09579a729a812fe01c7"
   },
   {
     "author": "AobaKuma OttersHoldHands iforgotmysocks",
@@ -219,7 +231,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "",
-    "version": "1.0.0+74b6b732edfc7cef520ada4b56c513b9d802e737"
+    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
   },
   {
     "author": "Aqua",
@@ -234,16 +246,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
-  },
-  {
     "author": "busted_bunny",
     "name": "Recycle This (Continued)",
     "steamId": "3253550009",
-    "version": "1.6.0"
+    "version": "1.6.5"
   },
   {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
@@ -258,16 +264,28 @@
     "version": "1.0.350.0854"
   },
   {
-    "author": "Dracora",
-    "name": "(RD)LightningBolt",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Taveron",
     "name": "Increased Stack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "Captolamia",
@@ -276,7 +294,7 @@
     "version": "1.6.0.1"
   },
   {
-    "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since this fork: Arodoid\n    ",
+    "author": " Original author: Captain Muscles (Nathan Harbour)\r\n    Since this fork: Arodoid\r\n    ",
     "name": "Semi Random Research: Progression Fork",
     "steamId": "3505290557",
     "version": "1.0.0.0"
@@ -286,12 +304,6 @@
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
-  },
-  {
-    "author": "Dracora",
-    "name": "(RD)InfiniteSoupCauldron",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Haplo",
@@ -327,7 +339,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "4.1.0.0"
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
     "author": "telardo",
@@ -447,13 +459,13 @@
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
-    "version": "1.0.0+717e2b8482a94b65a0bbd6d62a2a4e09a2eff8af"
+    "version": "1.0.0+b235132e69278f77bcefb44b0dad51caa583602a"
   },
   {
     "author": "Krypt",
     "name": "Grouped Pawns Lists",
     "steamId": "2340773428",
-    "version": "1.0.0+57085d711f0cb43d84a6960d68f6abddcf4758f7"
+    "version": "1.0.0+72ec5504f8dfc442d87f0781e681999f48317a61"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -483,7 +495,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "legodude17, Oskar Potocki and Sarg Bjornson",
@@ -501,7 +513,7 @@
     "author": "MemeGoddess",
     "name": "Search and Destroy (Continued)",
     "steamId": "3232242247",
-    "version": "1.0.0+be1ff242ffd9b61a532cfb790d8ff9714a471ea3"
+    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
   },
   {
     "author": "Smash Phil",
@@ -528,12 +540,6 @@
     "version": null
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": "2009825774",
@@ -543,7 +549,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.21+651341b315d95aeea69c6c135a55e57dc9a7ae8a"
+    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
   },
   {
     "author": "cucumpear and Azrael",
@@ -579,7 +585,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.6.4518.1"
+    "version": "1.6.4553.2"
   },
   {
     "author": "PeteTimesSix",
@@ -610,5 +616,53 @@
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
+  },
+  {
+    "author": "winggar",
+    "name": "Wing's Meaningful Parties",
+    "steamId": "3504909699",
+    "version": "1.1.4.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+087ba57a51502828a906a94051d99ccb60311f4e"
+  },
+  {
+    "author": "rabiosus",
+    "name": "Extinguisher Drone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheCatLover366",
+    "name": "Cat's Boots and Gloves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lecht",
+    "name": "Auto-repair On",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rabiosus",
+    "name": "AutoBlink",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)LightningBolt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)InfiniteSoupCauldron",
+    "steamId": null,
+    "version": null
   }
 ]
