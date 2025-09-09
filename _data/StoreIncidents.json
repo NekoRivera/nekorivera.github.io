@@ -131,11 +131,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -168,7 +163,7 @@
 	{
 		"abr": "wildman",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -273,11 +268,6 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -431,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 84
 }
