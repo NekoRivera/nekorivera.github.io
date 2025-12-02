@@ -21,11 +21,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -129,6 +124,11 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -291,6 +291,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -419,7 +424,32 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitornado",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "vomitsunami",
+		"price": 5000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "degurgitation",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "vometeor",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 1500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 84
+	"total": 90
 }
