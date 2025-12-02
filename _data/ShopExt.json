@@ -2210,7 +2210,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
+      "description": "Timmy tends to let his mind drift, even in the middle of work. he may sometimes stop tasks at random.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -2240,7 +2240,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Timmy has a screw loose, but it comes with a sharper scientific mind.",
       "stats": [
         "x115% research speed"
       ],
@@ -2270,7 +2270,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy strives for perfection in his work. he produces higher-quality products, but works more slowly. Failing to meet his standards causes unhappiness, and on rare occasions he may abandon a project mid-way.",
       "stats": [
         "x65% global work speed"
       ],
@@ -2296,7 +2296,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
+      "description": "Timmy's instincts lean heavily toward cowardice. In danger, he will often hide or run before standing to fight.",
       "stats": [],
       "conflicts": [
         "brave",
@@ -2326,7 +2326,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Timmy has stronger mental and physical fortitude than most. he can endure pain more readily, and is slower to break under harsh conditions.",
       "stats": [
         "-20% mental break threshold",
         "+20% pain shock threshold",
@@ -2370,7 +2370,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Minor bruises and scrapes plague Timmy, usually from tripping or falling due to poor coordination.",
       "stats": [],
       "conflicts": [
         "nimble"
@@ -2396,7 +2396,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Timmy enjoys the heat of a dry summer day. he doesn't mind working up a sweat or sleeping in warmth.",
       "stats": [
         "+18.0F max comfortable temperature"
       ],
@@ -2422,7 +2422,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Timmy enjoys the chill of a brisk winter night. he doesn't mind shivering or sleeping in the cold.",
       "stats": [
         "-18.0F min comfortable temperature"
       ],
@@ -2448,7 +2448,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "A bomb could go off beside Timmy while he sleeps, and he would keep right on sleeping. he can't be bothered to work or defend the colony mid-nap.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2470,7 +2470,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Timmy is naturally hygienic and organized. he doesn't track dirt or scatter trash, and enjoys cleaning.",
       "stats": [],
       "conflicts": [
         "slob"
@@ -2496,7 +2496,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Timmy is naturally sloppy, leaving trash and dirt scattered around. At least he isn't much bothered by messy surroundings.",
       "stats": [],
       "conflicts": [
         "neat"
@@ -2522,7 +2522,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy struggles to take breaks or rest mid-job. he will keep working, even at the expense of his health or sleep.",
       "stats": [],
       "conflicts": [
         "absent-minded"
@@ -2548,7 +2548,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
+      "description": "Timmy has never known nausea. Food poisoning and vomiting are foreign to him.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -2574,7 +2574,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy can't stand cruelty toward animals. he feels happier when nuzzled or acting as master to a tamed animal, but is more deeply upset when losing one. he also refuses to butcher animals.",
       "stats": [],
       "conflicts": [
         "animalhater"
@@ -2600,7 +2600,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Timmy believes in human superiority over animals. he dislikes bonding or being nuzzled, but feels satisfaction when animals die or are sold.",
       "stats": [],
       "conflicts": [
         "animallover",
@@ -2632,7 +2632,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "description": "Whether from bulk or awkward posture, Timmy has broken a few chairs in his time, and is likely to break more.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2654,7 +2654,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "description": "Timmy only plays by his own rules. When forced, he will drag his feet and work more slowly.",
       "stats": [
         "x25% global certainty loss factor"
       ],
@@ -2684,7 +2684,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "description": "Timmy needs clear direction on when and how to act. he works at normal speed only when ordered, and otherwise slows down.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -2714,7 +2714,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "description": "Timmy is fueled by spite. he can’t stand sharing the colony with rivals, and feels happier when one of them dies.",
       "stats": [
         "x25% global certainty loss factor"
       ],
@@ -2744,7 +2744,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Whether from trauma or fear of change, Timmy rejects modernity. he may lash out at machines, refuses to research, and feels satisfaction from destroying mechanoids.",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -2774,7 +2774,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Timmy lives for a good time. he remembers parties fondly, and the joy lasts far longer than it does for most.",
       "stats": [],
       "conflicts": [
         "anxious"
@@ -2800,7 +2800,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Timmy has limited mental capacity. he learns slowly and struggles with conversation, but tends to be naturally happy.",
       "stats": [
         "-50% global learning factor",
         "-50.00% social impact",
@@ -2844,7 +2844,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Timmy has trained in melee combat and learned a special move to disarm opponents.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2892,7 +2892,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
+      "description": "Timmy gets a sour stomach around blood or corpses. Vomiting is just part of life for him.",
       "stats": [],
       "conflicts": [
         "desensitized",
@@ -2922,7 +2922,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Timmy is naturally anxious, especially in social situations. he avoids gatherings and sometimes retreats to his room to cope.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed.",
         "x200% global certainty loss factor"
@@ -2954,7 +2954,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin’ is ever enough for Timmy. he tends to move between partners and seeks intimacy often.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -2986,7 +2986,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "description": "Timmy gives his body only to a spouse and would never initiate divorce. he also dislikes nudity more than most.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -3018,7 +3018,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "An armchair and a screen are all Timmy needs to be happy. he never tires of watching television, and always feels good after.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3040,7 +3040,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Timmy enjoys the company of cats and gravitates toward bonding with them, but dislikes dogs.",
       "stats": [],
       "conflicts": [
         "dogperson"
@@ -3066,7 +3066,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Timmy enjoys the company of dogs and gravitates toward bonding with them, but dislikes cats.",
       "stats": [],
       "conflicts": [
         "catperson"
@@ -3092,7 +3092,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Timmy has a sharp, logical mind. he researches faster than most, and his rational outlook makes him less prone to mental breaks.",
       "stats": [
         "+20% mental break threshold",
         "x130% research speed"
@@ -3124,7 +3124,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Timmy believes animals are essential to life and society. he feels happier with more of them around, and is especially skilled at taming and training.",
       "stats": [
         "x120% tame animal chance",
         "x120% train animal chance"
@@ -3156,7 +3156,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Timmy. he feels happier when near the ocean or a deep river.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3178,7 +3178,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
+      "description": "The mountains call to Timmy. he feels happier when near a large mountain.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3200,7 +3200,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy hides a twisted obsession. he treats organ harvesting as a dark experiment and takes pleasure in it. Harvesting makes him happy, but going too long without fuels growing unrest.",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -3226,7 +3226,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Timmy fights best when drunk. he grows more dangerous in melee the more intoxicated he becomes.",
       "stats": [
         "+4 melee"
       ],
@@ -3252,7 +3252,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compelled to steal, even from guests and allies, risking angering others.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3278,7 +3278,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf is a way of life for Timmy. he adores it and would rather die than give it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3308,7 +3308,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol is a way of life for Timmy. he adores drinking and would rather die than give it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3338,7 +3338,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Timmy loves to travel and feels happiest on the move. he grows restless when staying too long in one place, but moves quickly and forages well while caravanning.",
       "stats": [
         "+0.2 foraged food amount"
       ],
@@ -3368,7 +3368,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy is never fully asleep or awake. he lurches along in a slow, shambler-like state, and only sleeps once every few days.",
       "stats": [
         "x50% global work speed",
         "x70% move speed",
@@ -3402,7 +3402,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy has grown tired of the world. he struggles with bleak thoughts, making his personality difficult to befriend.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3424,7 +3424,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "description": "Timmy is hardened by old emotional trauma. he feels nothing from death or loss, whether animal, colonist, family, or prisoner.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -3454,7 +3454,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Only the finest meals satisfy Timmy. he feels indifferent toward ordinary food, but savors lavish meals and gains greater joy from them.",
       "stats": [
         "x70% eating speed"
       ],
@@ -3484,7 +3484,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Through scholastic pursuit, Timmy has become well-read. he excels in science and medicine, and tends patients with greater skill.",
       "stats": [
         "+4 intellectual",
         "+4 medical",
@@ -3518,7 +3518,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Timmy believes infrastructure is everything. he is a natural builder and stoneworker, constructing and mining with greater speed and efficiency.",
       "stats": [
         "+4 mining",
         "+4 construction",
@@ -3550,7 +3550,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "To Timmy, food is art. he creates beautiful, delicious meals that are almost always safe to eat.",
       "stats": [
         "+4 cooking",
         "+4 artistic",
@@ -3580,7 +3580,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Flora and fauna are vital to Timmy. he uses every part of plants and animals, and appreciates nature’s gifts.",
       "stats": [
         "+4 animals",
         "+4 plants",
@@ -3612,7 +3612,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
+      "description": "Timmy has an eye for silver and a silver tongue to match. he values his own goods highly, and convinces others to do the same.",
       "stats": [
         "+4 social",
         "+4 crafting",
@@ -3694,7 +3694,7 @@
       "addPrice": 3500,
       "removePrice": 0,
       "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Timmy bottles up his feelings for long stretches of time. When the pressure grows too great, he may suddenly break down.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3895,6 +3895,524 @@
       },
       "defName": "AG_Beauty",
       "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has exceptionally basic common traits.",
+      "stats": [
+        "+2 construction",
+        "+2 melee",
+        "+2 mining",
+        "+8.0% Armor - Blunt",
+        "+8.0% Armor - Sharp",
+        "+8.0% Armor - Heat",
+        "+8% general labor speed",
+        "+8% global learning factor",
+        "+8% immunity gain speed",
+        "-2.8% incoming damage multiplier",
+        "+8% injury healing factor",
+        "+0.08 max nutrition",
+        "+8% melee armor penetration",
+        "-8% melee cooldown",
+        "+8.8% melee damage factor",
+        "+0.1 melee dodge chance",
+        "+0.1 melee hit chance",
+        "-8% mental break threshold",
+        "+8% mining speed",
+        "+8% mining yield",
+        "+0.08 move speed",
+        "+8.00% negotiation ability",
+        "+8% pain shock threshold",
+        "+8% psychic sensitivity",
+        "+8% research speed",
+        "+8% rest rate multiplier",
+        "+8% global work speed",
+        "+0.1F max comfortable temperature",
+        "-0.1F min comfortable temperature",
+        "+0.089 honor value",
+        "+8% / day meditation psyfocus gain",
+        "+0.1 neural heat limit",
+        "+0.08 neural heat recovery rate",
+        "x108% Mass carry capacity"
+      ],
+      "conflicts": [
+        "slowlearner",
+        "pyromaniac",
+        "wimp",
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner",
+          "pyromaniac",
+          "wimp",
+          "bodypurist"
+        ],
+        "stats": [
+          "+2 construction",
+          "+2 melee",
+          "+2 mining",
+          "+8.0% Armor - Blunt",
+          "+8.0% Armor - Sharp",
+          "+8.0% Armor - Heat",
+          "+8% general labor speed",
+          "+8% global learning factor",
+          "+8% immunity gain speed",
+          "-2.8% incoming damage multiplier",
+          "+8% injury healing factor",
+          "+0.08 max nutrition",
+          "+8% melee armor penetration",
+          "-8% melee cooldown",
+          "+8.8% melee damage factor",
+          "+0.1 melee dodge chance",
+          "+0.1 melee hit chance",
+          "-8% mental break threshold",
+          "+8% mining speed",
+          "+8% mining yield",
+          "+0.08 move speed",
+          "+8.00% negotiation ability",
+          "+8% pain shock threshold",
+          "+8% psychic sensitivity",
+          "+8% research speed",
+          "+8% rest rate multiplier",
+          "+8% global work speed",
+          "+0.1F max comfortable temperature",
+          "-0.1F min comfortable temperature",
+          "+0.089 honor value",
+          "+8% / day meditation psyfocus gain",
+          "+0.1 neural heat limit",
+          "+0.08 neural heat recovery rate",
+          "x108% Mass carry capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "(RD)BasicThings",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VeryCommon",
+      "name": "verycommon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has moderate combat capability.",
+      "stats": [
+        "+6 melee",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "+20.0% Armor - Heat",
+        "+20% general labor speed",
+        "-20% incoming damage multiplier",
+        "+20% injury healing factor",
+        "+20% melee armor penetration",
+        "-20% melee cooldown",
+        "+20% melee damage factor",
+        "+0.2 melee dodge chance",
+        "+0.2 melee hit chance",
+        "-20% mental break threshold",
+        "+0.20 move speed",
+        "+20% pain shock threshold",
+        "x120% Mass carry capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6 melee",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+20% general labor speed",
+          "-20% incoming damage multiplier",
+          "+20% injury healing factor",
+          "+20% melee armor penetration",
+          "-20% melee cooldown",
+          "+20% melee damage factor",
+          "+0.2 melee dodge chance",
+          "+0.2 melee hit chance",
+          "-20% mental break threshold",
+          "+0.20 move speed",
+          "+20% pain shock threshold",
+          "x120% Mass carry capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "(RD)BasicThings",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Scrappy",
+      "name": "scrappy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "giant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider them prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x98% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x98% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
     }
   ],
   "races": [
