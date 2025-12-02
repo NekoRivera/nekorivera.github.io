@@ -12,10 +12,22 @@
     "version": "0.9.1"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0+75418944674bcad768ef8d1947da617a6c36aee9"
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
   },
   {
     "author": "Soul, Phaneron and Bradson",
@@ -42,6 +54,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "cyanobot",
     "name": "Talking Isn't Everything",
     "steamId": "3265662295",
@@ -66,6 +84,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Dracora",
+    "name": "(RD)AutobongforAll",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nina.Goblin",
     "name": "Allies are Helpful",
     "steamId": "3534920369",
@@ -84,10 +108,28 @@
     "version": "11.0.5"
   },
   {
+    "author": "GoryMoon",
+    "name": "CloseAll",
+    "steamId": "2018479759",
+    "version": "1.8.9397.43083"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
     "version": "1.4.6.0"
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)BasicThings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)NekoRivera'sMurderSquirrels",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Snues",
@@ -123,7 +165,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.79"
+    "version": "1.6.150"
   },
   {
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
@@ -183,7 +225,7 @@
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "6.2.0.0+e18fd770e8c0baf6d5b08c3c7d0e013a9d9f68d6"
+    "version": "6.3.4.0+07303081ca4c785a7944da6dcba0b26787398b45"
   },
   {
     "author": "Slime-Senpai",
@@ -230,8 +272,8 @@
   {
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
-    "steamId": "",
-    "version": "1.0.0+5dc25f5229704f0b443ec0b6bf696f8add7e8a01"
+    "steamId": "3526354009",
+    "version": "1.0.0+9faf5e73648bad336daa8f83766c7da9e2117bc2"
   },
   {
     "author": "Aqua",
@@ -249,7 +291,7 @@
     "author": "busted_bunny",
     "name": "Recycle This (Continued)",
     "steamId": "3253550009",
-    "version": "1.6.5"
+    "version": "1.6.6"
   },
   {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
@@ -273,7 +315,7 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -308,8 +350,8 @@
   {
     "author": "Haplo",
     "name": "Misc. Training",
-    "steamId": null,
-    "version": null
+    "steamId": "717575199",
+    "version": "1.6.4"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -321,7 +363,7 @@
     "author": "Turnovus",
     "name": "Integrated Genes",
     "steamId": "2884115974",
-    "version": "1.6.0"
+    "version": "1.7.2"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -345,7 +387,7 @@
     "author": "telardo",
     "name": "Romance On The Rim",
     "steamId": "2654432921",
-    "version": "1.6.0.3"
+    "version": "1.6.1.0+c6a702899132d9cceb8457e42c3ca8508d780df8"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -363,13 +405,13 @@
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
-    "version": "1.0.0.1"
+    "version": "0.0.0.0"
   },
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Nutrient Paste Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2920385763",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -650,6 +692,12 @@
   {
     "author": "rabiosus",
     "name": "AutoBlink",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)Vomitornado",
     "steamId": null,
     "version": null
   },
