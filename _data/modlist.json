@@ -48,10 +48,52 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Core Mod v2.61",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Magos Xenobiologis",
+    "steamId": "1541499916",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "GoGaTio",
     "name": "Mechanoid Upgrades",
     "steamId": "3365118555",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Orkoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Aeldari",
+    "steamId": "1541515831",
+    "version": "1.6.5.1"
   },
   {
     "author": "Zaljerem",
@@ -231,7 +273,7 @@
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "6.3.4.0+07303081ca4c785a7944da6dcba0b26787398b45"
+    "version": "6.4.0.0+9d2e9ea1338a94352e735339dd3e8e138969fd1e"
   },
   {
     "author": "Slime-Senpai",
@@ -333,7 +375,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.4.3"
+    "version": "2.6.4.4"
   },
   {
     "author": "SirRandoo",
@@ -556,18 +598,6 @@
     "name": "[RH2] Faction: V.O.I.D.",
     "steamId": "2883208829",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Armoury",
-    "steamId": "1541438614",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Magos Xenobiologis",
-    "steamId": "1541499916",
-    "version": "1.6.5.1"
   },
   {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
