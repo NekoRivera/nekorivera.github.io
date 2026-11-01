@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RICS Store - Purchase List</title>
+    <script>
+        // Apply saved / system theme before paint to avoid flash
+        (function () {
+            try {
+                var saved = localStorage.getItem('rics-theme');
+                var theme = (saved === 'dark' || saved === 'light')
+                    ? saved
+                    : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+                var root = document.documentElement;
+                root.setAttribute('data-theme', theme);
+                root.classList.add(theme === 'dark' ? 'theme-dark' : 'theme-light');
+                root.style.colorScheme = theme;
+            } catch (e) {
+                document.documentElement.setAttribute('data-theme', 'light');
+            }
+        })();
+    </script>
+    <link rel="stylesheet" href="assets/css/rics-store.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Toggle light/dark mode">
+                <span class="theme-icon" aria-hidden="true">🌙</span>
+                <span class="theme-label">Dark</span>
+            </button>
+			<!-- PUT YOUR NAME HERE -->
+            <h1>RICS Store</h1>
+			<!-- Change TExt here to anything you like -->
+            <p>Interactive purchase list for RICS mod</p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-button active" data-tab="items">Items</button>
+            <button class="tab-button" data-tab="events">Events</button>
+            <button class="tab-button" data-tab="weather">Weather</button>
+            <button class="tab-button" data-tab="traits">Traits</button>
+            <button class="tab-button" data-tab="races">Races</button>
+            <button class="tab-button" data-tab="commands">Commands</button>
+			<button class="tab-button" data-tab="mods">Mods</button>
+        </div>
+
+        <div class="tab-content">
+            <!-- Items Tab -->
+            <div id="items" class="tab-pane active">
+                <div class="search-box">
+                    <input type="text" id="items-search" placeholder="Search items..." class="search-input">
+                </div>
+                <div class="table-container">
+                    <table id="items-table" class="items-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="name">Name</th>
+                                <th data-sort="price">Price</th>
+                                <th data-sort="category">Category</th>
+                                <th data-sort="quantityLimit">Quantity Limit</th>
+                            </tr>
+                        </thead>
+                        <tbody id="items-tbody">
+                            <!-- Items loaded by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Events Tab -->
+            <div id="events" class="tab-pane">
+                <div class="search-box">
+                    <input type="text" id="events-search" placeholder="Search events..." class="search-input">
+                </div>
+                <div class="table-container">
+                    <table id="events-table" class="items-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="label">Name</th>
+                                <th data-sort="baseCost">Cost</th>
+                                <th data-sort="karmaType">Karma Type</th>
+                            </tr>
+                        </thead>
+                        <tbody id="events-tbody">
+                            <!-- Events loaded by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Weather Tab -->
+            <div id="weather" class="tab-pane">
+                <div class="search-box">
+                    <input type="text" id="weather-search" placeholder="Search weather..." class="search-input">
+                </div>
+                <div class="table-container">
+                    <table id="weather-table" class="items-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="label">Name</th>
+                                <th data-sort="baseCost">Cost</th>
+                                <th data-sort="karmaType">Karma Type</th>
+                                <th>Description</th>
+                            </tr>
+                        </thead>
+                        <tbody id="weather-tbody">
+                            <!-- Weather loaded by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- Traits Tab -->
+            <div id="traits" class="tab-pane">
+                <div class="search-box">
+                    <input type="text" id="traits-search" placeholder="Search traits..." class="search-input">
+                </div>
+                <div class="table-container">
+                    <table id="traits-table" class="items-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="name">Name</th>
+                                <th data-sort="addPrice">Add Cost</th>
+                                <th data-sort="removePrice">Remove Cost</th>
+                                <th>Description & Details</th>
+                            </tr>
+                        </thead>
+                        <tbody id="traits-tbody">
+                            <!-- Traits loaded by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+			<!-- Races Tab -->
+			<div id="races" class="tab-pane">
+				<div class="search-box">
+					<input type="text" id="races-search" placeholder="Search races and xenotypes..." class="search-input">
+				</div>
+				
+				<div id="races-container" class="races-container">
+					<!-- Populated by JavaScript with collapsible groups -->
+				</div>
+			</div>
+
+			<!-- Commands Tab -->
+			<div id="commands" class="tab-pane">
+				<div class="tab-info-banner">
+					<span class="tab-info-banner-icon" aria-hidden="true">📖</span>
+					<span>
+						For info on how to use a command, go to the
+						<a href="https://github.com/ekudram/-cap-RimworldInteractiveChatServices/wiki/Commands"
+						   target="_blank"
+						   rel="noopener noreferrer">RICS Wiki — Commands</a>.
+					</span>
+				</div>
+				<div class="search-box">
+					<input type="text" id="commands-search" placeholder="Search commands (name, alias, permission, status)..." class="search-input">
+				</div>
+				<div id="commands-container" class="races-container">
+					<!-- Populated by JavaScript with collapsible groups -->
+				</div>
+			</div>
+
+			<!-- Mods Tab -->
+            <div id="mods" class="tab-pane">
+                <div class="search-box">
+                    <input type="text" id="mods-search" placeholder="Search mods..." class="search-input">
+                </div>
+                <div class="table-container">
+                    <table id="mods-table" class="items-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="name">Mod Name</th>
+                                <th data-sort="author">Author</th>
+                                <th data-sort="version">Version</th>
+                                <th>Steam Workshop</th>
+                            </tr>
+                        </thead>
+                        <tbody id="mods-tbody">
+                            <!-- Mods loaded by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+		
+		</div>
+    </div>
+
+    <script src="assets/js/rics-store.js"></script>
+</body>
+
+</html>
